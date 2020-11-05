@@ -1,5 +1,12 @@
 # The-China-Physiological-Signal-Challenge-2018-champion
-The model and the code of The China Physiological Signal Challenge 2018 champion
+
+The artificial intelligence (AI) model and the code of The China Physiological Signal Challenge 2018 champion
+
+Deep learning (DL) model for Electrocardiography/electrocardiogram (ECG/EKG). 
+
+Input: .mat file of ECG (time series signal)
+Model: classification of machine learning (ML)
+Out: types of arrhythmia
 
 The team of Academia Sinica won The China Physiological Signal Challenge 2018 champion.
 Web: http://2018.icbeb.org/Challenge.html
