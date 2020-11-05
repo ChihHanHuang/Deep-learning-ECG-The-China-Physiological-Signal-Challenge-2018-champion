@@ -1,4 +1,4 @@
-# The-China-Physiological-Signal-Challenge-2018-champion
+# The-China-Physiological-Signal-Challenge-2018-champion (Deep learning for ECG)
 
 The artificial intelligence (AI) model and the code of The China Physiological Signal Challenge 2018 champion
 
