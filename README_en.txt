@@ -1,5 +1,5 @@
 If the operating environment is python2.7, use score.py as the scoring script.
-If the operating environment is python3.5 or python3.6, use score2018.py as the scoring script.
+If the operating environment is python3.5 or python3.6, use score_py3.py as the scoring script.
 
 The challenge committee selected 300 recoding files randomly as validation data(including the corresponding REFERENCE.csv ), storing in the validation_set folder, the validation dataset is only to verify every challenger's code running successfully.
 
