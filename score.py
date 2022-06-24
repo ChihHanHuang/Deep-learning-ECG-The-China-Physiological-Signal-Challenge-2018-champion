@@ -5,6 +5,7 @@ import argparse
 import numpy as np
 import sys
 
+
 '''
 cspc2018_challenge score
 Written by:  Xingyao Wang, Feifei Liu, Chengyu Liu
